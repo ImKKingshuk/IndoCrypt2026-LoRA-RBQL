@@ -1,0 +1,77 @@
+{
+  "description": "Wall-clock seconds for every reproduce command in ARTIFACT.md, measured one at a time on the paper's machine with a warm model cache. Commands that took under one second are recorded as 0 and printed as '<1' in the paper.",
+  "hardware": {
+    "cpu": "Apple M1",
+    "cores": 8,
+    "memory_gb": 8,
+    "os": "macOS 26.6.1",
+    "accelerator": null
+  },
+  "software": {
+    "python": "3.12.12",
+    "numpy": "2.4.4",
+    "scikit-learn": "1.8.0",
+    "torch": "2.11.0",
+    "torchvision": "0.26.0",
+    "transformers": "5.8.0",
+    "peft": "0.19.1",
+    "datasets": "4.8.5",
+    "sentencepiece": "0.2.1",
+    "pytest": "9.0.3"
+  },
+  "core_seconds": {
+    "synthetic": 0,
+    "ablation": 2,
+    "realdata": 13,
+    "defense-sweep": 2,
+    "adaptive-defense": 25,
+    "quantization-frontier": 37,
+    "defense-taxonomy": 26,
+    "security-floor": 12,
+    "adaptive-boundary": 10,
+    "lower-bound": 0,
+    "realdata (wine)": 3,
+    "defense-sweep (wine)": 2,
+    "floor-margin": 14,
+    "request-model": 0,
+    "noise-aggregators": 929,
+    "precision-floor": 44,
+    "pytest (252 tests)": 200
+  },
+  "extras_seconds": {
+    "vision-endpoint": 842,
+    "trained-adapter-defense": 11591,
+    "endpoint-transformer (smoke)": 19,
+    "endpoint-transformer (BERT)": 449,
+    "endpoint-transformer (SST-2)": 305,
+    "endpoint-transformer (BERT, 8 digits)": 450,
+    "endpoint-transformer (BERT, 6 digits)": 454,
+    "lm-endpoint-inversion": 218,
+    "mlm-output-head": 203,
+    "lora-checkpoint": 21,
+    "lora-checkpoint (Jacobian)": 20,
+    "lora-checkpoint (stronger)": 865,
+    "module-amplification": 129,
+    "null-curvature": 457,
+    "request-utility": 880,
+    "adaptive-boundary (noise sweep)": 3376
+  },
+  "core_subtotal_seconds": 1319,
+  "extras_subtotal_seconds": 20279,
+  "total_seconds": 21598,
+  "n_commands": 33,
+  "storage": {
+    "result_files_mb": "under 10",
+    "model_cache_gb": 4.3
+  },
+  "total_hours": 6.0,
+  "note": "module-amplification needs the lora extra and a cached bert-base-uncased. Two entries time a smaller configuration than the one the paper reports; see configuration_caveats. The two known-bias-control runs of adaptive-boundary are variants of the timed command, not separate entries; the four-precision one takes about 2 h 09 min.",
+  "configuration_caveats": {
+    "adaptive-boundary": "Times the default command, which sweeps six request precisions with the amplification and fixed-boundary attackers only. The joint (boundary, scale) search of Section S11 uses the same entry point and takes 5120 s (1 h 25 m) on the same machine, because it enumerates the attacker's admissible scales at every bisection step. Table 7 is results/adaptive_boundary_unknownbias/; its step counts come from results/adaptive_boundary_unknownbias_steps/.",
+    "trained-adapter-defense": "Times the command with the default three seeds. The paper reports the ten-seed run in results/trained_adapter_defense_10seed/, which takes about ten times as long, since training the victim adapter dominates."
+  },
+  "paper_run_seconds": {
+    "adaptive-boundary (joint grid, Section S11)": 5120,
+    "_note": "Measured wall-clock for a run the paper reports where it differs from the timed default command. A second execution of the joint-grid command matched all 480 committed rows bit for bit."
+  }
+}

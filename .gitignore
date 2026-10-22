@@ -1,0 +1,126 @@
+# --- Experiment outputs -------------------------------------------------------
+# Result data under results/ is tracked: it is what the paper reports.
+# Everything else an experiment writes there (trained adapter weights,
+# tokenizer copies, cached tensors, logs, resume state) is large and can be
+# regenerated, so only data files are let through.
+results/*
+!results/*/
+!results/*.json
+!results/*.csv
+!results/*.md
+results/*/*
+!results/*/*.json
+!results/*/*.csv
+!results/*/*.md
+results/**/checkpoint.jsonl
+
+# Model weights and tensors, wherever they end up.
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npz
+*.npy
+*.pkl
+*.h5
+
+# Run logs and experiment trackers.
+*.log
+wandb/
+mlruns/
+lightning_logs/
+outputs/
+checkpoints/
+
+# Model and dataset caches created inside the repo.
+.cache/
+huggingface/
+hf_cache/
+data/
+datasets/
+cifar-10-batches-py/
+*.tar.gz
+
+# --- Python -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+.python-version
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.pytype/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.ipynb_checkpoints/
+
+# --- LaTeX build files (paper/main.pdf itself is tracked) ---------------------
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.synctex(busy)
+*.xdv
+*.dvi
+*.nav
+*.snm
+*.vrb
+*.run.xml
+*-blx.bib
+
+# --- Secrets and local configuration ------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+.netrc
+.secrets/
+
+# --- Editors and operating systems ---------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+\#*\#
+.#*
+
+# --- Local scratch ---------------------------------------------------------------
+tmp/
+scratch/
+*.tmp
+*.bak

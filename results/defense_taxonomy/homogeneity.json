@@ -1,0 +1,1262 @@
+[
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5968752489042448
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 4.0,
+    "ratio": 1.5469102882967,
+    "defect": 0.14805176407793164
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 16.0,
+    "ratio": 1.7591474661321276,
+    "defect": 0.03612014548484573
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 64.0,
+    "ratio": 1.8146881493014935,
+    "defect": 0.00896681259329536
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 256.0,
+    "ratio": 1.8287058895543116,
+    "defect": 0.002237722553523046
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 1024.0,
+    "ratio": 1.8322182660116675,
+    "defect": 0.0005591868786020325
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 4096.0,
+    "ratio": 1.8330968515173396,
+    "defect": 0.00013978149027933157
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.513554737579443
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 4.0,
+    "ratio": 1.3322702857045687,
+    "defect": 0.12746467297037176
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 16.0,
+    "ratio": 1.4709623117039219,
+    "defect": 0.031058090393083042
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 64.0,
+    "ratio": 1.5076702153041863,
+    "defect": 0.007721213700584952
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 256.0,
+    "ratio": 1.516957301033888,
+    "defect": 0.0019276397441656639
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 1024.0,
+    "ratio": 1.5192857341173083,
+    "defect": 0.00048174746747543725
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 4096.0,
+    "ratio": 1.519868255433822,
+    "defect": 0.00012042687100683754
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5379867796074005
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 4.0,
+    "ratio": 1.4320725310571891,
+    "defect": 0.133769810702074
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 16.0,
+    "ratio": 1.5948015088853824,
+    "defect": 0.03292208691904119
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 64.0,
+    "ratio": 1.6374940876115844,
+    "defect": 0.008189278276066825
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 256.0,
+    "ratio": 1.6482797362714594,
+    "defect": 0.0020441775081526193
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 1024.0,
+    "ratio": 1.6509829618418732,
+    "defect": 0.0005107678955347643
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 4096.0,
+    "ratio": 1.6516591904269,
+    "defect": 0.00012767979466578514
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.4925606291625877
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 4.0,
+    "ratio": 1.3645941740160243,
+    "defect": 0.1260668334554261
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 16.0,
+    "ratio": 1.5012783656562223,
+    "defect": 0.0310458577788545
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 64.0,
+    "ratio": 1.537316524874058,
+    "defect": 0.007716824555519983
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 256.0,
+    "ratio": 1.54643076930454,
+    "defect": 0.0019277956170775203
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 1024.0,
+    "ratio": 1.5487157036868773,
+    "defect": 0.0004816116986088421
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 4096.0,
+    "ratio": 1.5492873333516173,
+    "defect": 0.00012039173665357369
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5573993314442184
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 4.0,
+    "ratio": 1.5609990031047145,
+    "defect": 0.14160570928406596
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 16.0,
+    "ratio": 1.765603367946465,
+    "defect": 0.034549091691262336
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 64.0,
+    "ratio": 1.818948486509263,
+    "defect": 0.008582673573923396
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 256.0,
+    "ratio": 1.8324028148501839,
+    "defect": 0.0021422751512709497
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 1024.0,
+    "ratio": 1.8357735064013447,
+    "defect": 0.0005353477896825456
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 4096.0,
+    "ratio": 1.8366166195750384,
+    "defect": 0.00013382720867558117
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5556872933496745
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 4.0,
+    "ratio": 1.4322051877495623,
+    "defect": 0.13861056963784704
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 16.0,
+    "ratio": 1.6062553548690353,
+    "defect": 0.03369310890407156
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 64.0,
+    "ratio": 1.6520445875225573,
+    "defect": 0.008364185999806109
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 256.0,
+    "ratio": 1.6636112954425075,
+    "defect": 0.0020872968934405396
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 1024.0,
+    "ratio": 1.666510126029039,
+    "defect": 0.0005216152386752337
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 4096.0,
+    "ratio": 1.6672352760508793,
+    "defect": 0.00013039118192108062
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.6166057321908682
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 4.0,
+    "ratio": 1.6161092927408525,
+    "defect": 0.1533293028999468
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 16.0,
+    "ratio": 1.8550696273009308,
+    "defect": 0.03727493691166799
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 64.0,
+    "ratio": 1.9172987067852618,
+    "defect": 0.00925524808778981
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 256.0,
+    "ratio": 1.932987428408186,
+    "defect": 0.0023099406604988903
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 1024.0,
+    "ratio": 1.936917503970758,
+    "defect": 0.0005772267520290381
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 4096.0,
+    "ratio": 1.9379005112877095,
+    "defect": 0.00014429022937318786
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.6185269866410917
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 4.0,
+    "ratio": 1.5975352414808532,
+    "defect": 0.1508057140927426
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 16.0,
+    "ratio": 1.8236513689999996,
+    "defect": 0.0365945931146467
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 64.0,
+    "ratio": 1.8825548023447347,
+    "defect": 0.009080144148650594
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 256.0,
+    "ratio": 1.8974054906605347,
+    "defect": 0.0022657366166817902
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 1024.0,
+    "ratio": 1.9011256529902905,
+    "defect": 0.0005661781787606139
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 4096.0,
+    "ratio": 1.9020561566116476,
+    "defect": 0.00014152857866860162
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5519183166968408
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 4.0,
+    "ratio": 1.4438516076346841,
+    "defect": 0.13948970759295937
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 16.0,
+    "ratio": 1.6180494369462461,
+    "defect": 0.03394935011151171
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 64.0,
+    "ratio": 1.663788000500278,
+    "defect": 0.008431153975501208
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 256.0,
+    "ratio": 1.6753406516369889,
+    "defect": 0.0021043127345492154
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 1024.0,
+    "ratio": 1.6782359329325152,
+    "defect": 0.0005258707316782421
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 4096.0,
+    "ratio": 1.6789601943526429,
+    "defect": 0.00013145472107689853
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.5610690724400211
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 4.0,
+    "ratio": 1.5124985362943806,
+    "defect": 0.1412655141750731
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 16.0,
+    "ratio": 1.7019767313771443,
+    "defect": 0.03452545358309921
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 64.0,
+    "ratio": 1.7515847924739187,
+    "defect": 0.008578049521943085
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 256.0,
+    "ratio": 1.7641079489192284,
+    "defect": 0.0021420752478505246
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 1024.0,
+    "ratio": 1.7672460667877024,
+    "defect": 0.0005352457364471722
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "digits",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 4096.0,
+    "ratio": 1.7680310509673849,
+    "defect": 0.0001337977479276649
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9046111883037682
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 4.0,
+    "ratio": 6.55584102493909,
+    "defect": 0.1978695447038614
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 16.0,
+    "ratio": 8.146932348423046,
+    "defect": 0.04717306455873398
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 64.0,
+    "ratio": 8.546304819758515,
+    "defect": 0.011657931725655086
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 256.0,
+    "ratio": 8.646223529664141,
+    "defect": 0.002906143609907701
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 1024.0,
+    "ratio": 8.67120764526792,
+    "defect": 0.0007260165284666278
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 0,
+    "amplification": 4096.0,
+    "ratio": 8.67745394735062,
+    "defect": 0.00018147169978668647
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9052628842855729
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 4.0,
+    "ratio": 7.001988734737769,
+    "defect": 0.1973180346154742
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 16.0,
+    "ratio": 8.699010887581913,
+    "defect": 0.047038750340609455
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 64.0,
+    "ratio": 9.124756049694678,
+    "defect": 0.011624856067677729
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 256.0,
+    "ratio": 9.23126231901133,
+    "defect": 0.002897905821011537
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 1024.0,
+    "ratio": 9.257892994523928,
+    "defect": 0.0007239590217985561
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 1,
+    "amplification": 4096.0,
+    "ratio": 9.264550916270034,
+    "defect": 0.00018095744432944033
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9114607089676786
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 4.0,
+    "ratio": 6.901223546935097,
+    "defect": 0.19676610500338593
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 16.0,
+    "ratio": 8.569346589343892,
+    "defect": 0.04691473677840056
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 64.0,
+    "ratio": 8.987750457858496,
+    "defect": 0.011594398352309439
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 256.0,
+    "ratio": 9.092416146704096,
+    "defect": 0.002890326932946207
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 1024.0,
+    "ratio": 9.11858636787965,
+    "defect": 0.0007220665120327419
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 2,
+    "amplification": 4096.0,
+    "ratio": 9.125129157011761,
+    "defect": 0.00018048445501273622
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.923619845321345
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 4.0,
+    "ratio": 7.968146943755042,
+    "defect": 0.1977371059866873
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 16.0,
+    "ratio": 9.908281207692797,
+    "defect": 0.04713425250359304
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 64.0,
+    "ratio": 10.394733303888728,
+    "defect": 0.011647266149510381
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 256.0,
+    "ratio": 10.516413229452928,
+    "defect": 0.0029034525313436756
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 1024.0,
+    "ratio": 10.546837119461042,
+    "defect": 0.0007253422377958167
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 3,
+    "amplification": 4096.0,
+    "ratio": 10.554443332514566,
+    "defect": 0.00018130303239180856
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9167377679040674
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 4.0,
+    "ratio": 7.3854190204730275,
+    "defect": 0.1980259077690291
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 16.0,
+    "ratio": 9.183366483921679,
+    "defect": 0.047201033342175035
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 64.0,
+    "ratio": 9.63438060325194,
+    "defect": 0.011664368163313763
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 256.0,
+    "ratio": 9.747206158261184,
+    "defect": 0.002907719256344363
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 1024.0,
+    "ratio": 9.77541677345456,
+    "defect": 0.0007264083679549003
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 4,
+    "amplification": 4096.0,
+    "ratio": 9.782469687372002,
+    "defect": 0.00018156953045088907
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9005686984761346
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 4.0,
+    "ratio": 6.476680561887164,
+    "defect": 0.1962563648466453
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 16.0,
+    "ratio": 8.032998653608843,
+    "defect": 0.046825339578702774
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 64.0,
+    "ratio": 8.423658090219575,
+    "defect": 0.011573255856113643
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 256.0,
+    "ratio": 8.521398376936867,
+    "defect": 0.0028851170794950646
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 1024.0,
+    "ratio": 8.545837882094103,
+    "defect": 0.0007207676264991242
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 5,
+    "amplification": 4096.0,
+    "ratio": 8.55194803135206,
+    "defect": 0.00018015995680407124
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9058622536844106
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 4.0,
+    "ratio": 6.755920235533626,
+    "defect": 0.19828838404748275
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 16.0,
+    "ratio": 8.400203466646245,
+    "defect": 0.047250519394615435
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 64.0,
+    "ratio": 8.812900250822743,
+    "defect": 0.011676263926125339
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 256.0,
+    "ratio": 8.916149300974903,
+    "defect": 0.0029106940653830424
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 1024.0,
+    "ratio": 8.941965943373855,
+    "defect": 0.0007271521180994372
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 6,
+    "amplification": 4096.0,
+    "ratio": 8.94842037354106,
+    "defect": 0.00018175547088101256
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9208614756720112
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 4.0,
+    "ratio": 7.3030311877712775,
+    "defect": 0.1976750152383753
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 16.0,
+    "ratio": 9.07784519162568,
+    "defect": 0.04713358928949815
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 64.0,
+    "ratio": 9.523020230668692,
+    "defect": 0.011647859962221088
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 256.0,
+    "ratio": 9.634383713244738,
+    "defect": 0.0029036126570864077
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 1024.0,
+    "ratio": 9.662228675733193,
+    "defect": 0.0007253829906359852
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 7,
+    "amplification": 4096.0,
+    "ratio": 9.669190168195769,
+    "defect": 0.0001813132655635271
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9034884415254395
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 4.0,
+    "ratio": 6.034151768871124,
+    "defect": 0.1972100246789097
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 16.0,
+    "ratio": 7.496781867299645,
+    "defect": 0.04701780059848764
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 64.0,
+    "ratio": 7.863828380266771,
+    "defect": 0.011620382334495449
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 256.0,
+    "ratio": 7.955654994923856,
+    "defect": 0.002896812663594479
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 1024.0,
+    "ratio": 7.978615466431912,
+    "defect": 0.0007236872974594313
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 8,
+    "amplification": 4096.0,
+    "ratio": 7.984355819290185,
+    "defect": 0.0001808896108296292
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 1.0,
+    "ratio": 1.0,
+    "defect": 0.9082712837885335
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 4.0,
+    "ratio": 6.726153643758096,
+    "defect": 0.19732931268106477
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 16.0,
+    "ratio": 8.355394259726632,
+    "defect": 0.047046396068299995
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 64.0,
+    "ratio": 8.764214070573813,
+    "defect": 0.011626814643208102
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 256.0,
+    "ratio": 8.86649027130679,
+    "defect": 0.0028983982263813806
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 1024.0,
+    "ratio": 8.892063503058244,
+    "defect": 0.0007240822929387045
+  },
+  {
+    "panel": "homogeneity",
+    "dataset": "wine",
+    "feature_dim": 8,
+    "seed": 9,
+    "amplification": 4096.0,
+    "ratio": 8.89845706836399,
+    "defect": 0.0001809882726835585
+  }
+]

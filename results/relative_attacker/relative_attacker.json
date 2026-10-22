@@ -1,0 +1,4802 @@
+[
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.03171339091469433,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.03171339091469458,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.022556500651503147,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00182090483637051,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.001820904836370908,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0021259302704415,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.00020948329104788414,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00020948329104812774,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00019797366860255388,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.495182499131015e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.4951824991314065e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.53569337629319e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.002778080787813445,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0027780807878131997,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0039769097922173835,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00018171833785556051,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0001817183378554703,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00032560073653788895,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.685837513580063e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 9.685837513740032e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.2222825737552153e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.2111003661088174e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.2111003660141475e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 5.303352309488623e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0005621187812223243,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00015283648879048562,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00018122606518015564,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0006417092364350008,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00016805836151064768,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.000209314459428662,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0008022895294169682,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00024436795103333536,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0003069767212907267,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.00025053785922775297,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 9.964739612116983e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013065187618462718,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 6.618548476199596e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.9405559379940844e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.198464635700844e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 4.733630783412249e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.8463151339110747e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.5006759685183108e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.00010765118579787088,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 2.5809511386348323e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.984979853704641e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.181813092297417e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 1.8477690204762612e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 0,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.5986265017088175e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.03281677702967113,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.03281677702967092,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.03727894523705465,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0018907696768328149,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0018907696768340387,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.003908544549899659,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.00015068839299815643,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.0001506883929973627,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00028668044204188686,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 4.356388293261197e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 4.356388293174406e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 7.221436473954695e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.002930070356737728,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0029300703567377738,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.002640067503648234,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00017319036605246749,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00017319036605197894,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00033732081608352243,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.2153691647713976e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.2153691647859074e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.342018450614573e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 4.184257579560701e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 4.1842575797593365e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.3502507060516065e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0007978593594489426,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00031725070066042837,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00015894574828372311,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0007064836282889003,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0001664473008438145,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00018024692332341646,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0009912282895769705,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00011465929931066379,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013166929681897492,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0006105510980493179,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00022037616180185297,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0001644667687466306,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 7.242008178956326e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 2.3466028886886503e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.298445136485218e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 7.514363016371469e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.5013757951659974e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.7744990532161696e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 7.478631373120588e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.2467673001559978e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.1775585844765447e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 4.626685782645028e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.422907303733308e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 1,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.862531137214855e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.024732644617310964,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.024732644617311072,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.030933462473222983,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0015501214103685668,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0015501214103687297,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0014105610327467394,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 7.513960282371732e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 7.513960282418551e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00015704508229881463,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.5768111195771484e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.576811119562194e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.3126298459814943e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.002643877250903737,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.002643877250903772,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0028437151513159625,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0001421430641514453,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00014214306415187908,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00017078485026642546,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.828090961725234e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 9.82809096167566e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.5980185268572096e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.39191585141379e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.3919158511698817e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.2759648506684916e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0003648196320886226,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00011747979296786573,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00015153350546467825,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0005938235498250791,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00024365017405472713,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00015596673697897034,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0006231919109014377,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.0002688851387216756,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0002938473003163881,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0007831179600773571,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00014279785775142624,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00023349482806526897,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 3.0215281454310095e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 2.1922814540901465e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8535112163264934e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 4.985227481093492e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 2.2531770169090414e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8418097040825153e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 5.557410449915691e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.599309254351539e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.4285882423609198e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 4.34890028750378e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 1.9368573171503978e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 2,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.4834242229613331e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.04447686065324583,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.044476860653245825,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.04870849268936752,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0017527262512933518,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0017527262512933412,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.002089044306082171,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0001225786911717841,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00012257869117123844,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013903109782969803,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.9115760601949396e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.9115760601962653e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 5.514128906024885e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0046959479211845,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.004695947921183896,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.004383244024037499,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.000166876906896029,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00016687690689621374,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00036182085656961336,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.3961086597124268e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.3961086597002829e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.409935490811725e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.89286580428048e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.892865804861285e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.00777446063802e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.00029158315795452266,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00016280286466640968,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00017008549140016532,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0007804142076882069,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00016686974697102406,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00023874359930194265,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0009530725735720027,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.0003304181146386463,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0003755463073313472,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0007711757435672811,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.0003324335185874897,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00035115163389916944,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 4.0433322696198624e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 2.065785711944906e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.1033905391910793e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 9.617634248961563e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 2.2038798531187075e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8213402838761314e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.399098200526854e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 3.452791716889688e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.5319719369867124e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.00011873933837560658,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.2603930685207963e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 3,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.9070260711051235e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.028559445841844954,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.028559445841844718,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.03153666262595297,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.001550066097423541,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0015500660974232354,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0018998240553692303,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.64651082999552e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 9.646510829972339e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0001677293252502428,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.657651834990133e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.6576518350285204e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.379123621867588e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.002639354978203419,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.002639354978203913,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.004253050198618592,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00014258585192221312,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00014258585192228958,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00019312748429739052,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 7.632333551710855e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 7.632333551930214e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 9.895864600562453e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.6752400742799543e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.675240074438565e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.3066724513806945e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.00018383527781828192,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00012940281147043924,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0001216533099816524,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0007034410944064353,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00011950671920210972,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013012386607374598,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0007683908075586409,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 9.76695080664209e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00010212870638299865,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0004340405873146913,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00011227417303986613,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 9.482439509276193e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 1.8854530771365416e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.104465530798273e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.9000484707411162e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 7.107033830694548e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.1207080640005627e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.721934455030391e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 5.760237780332588e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.700319592465029e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.268821803423777e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.981290592487968e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.458528873966551e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 4,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.3442344551010214e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.019152620361326176,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.019152620361325822,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.023504948741159857,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0016962308247547209,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0016962308247551999,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0018096907465854142,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 8.869543438574428e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 8.869543438581875e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00017784124277735536,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.239423059880503e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.239423059932705e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.264186821779314e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.003004860714043742,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0030048607140442623,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.004418237998065045,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00018712338788707012,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00018712338788712786,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00022852147607079737,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.0805906340848158e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.0805906341071361e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8551840144292517e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.0209640505611913e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.020964050541741e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.879657649051497e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0006418678790636583,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00015340999842615083,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00014922866530509875,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0007904636171455693,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0003487784998016968,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0004723943363608049,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.000690770529443711,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.000336601042811997,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0002867744656350076,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0005365368082590928,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.0004537326166837465,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0003497852855472905,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 3.6748032143417195e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.588208452338198e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.538986285593398e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 7.031499415175135e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 2.5948120783198492e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.599645885742189e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 8.337311120750767e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 4.385506568570527e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.601181342049003e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 9.908345040329146e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 6.674254636090193e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 5,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 6.748771348118245e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.03573279830948827,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.03573279830948833,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0358209742373601,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0022137523887124835,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.002213752388712744,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.003595937708096435,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.413551315877809e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 9.413551315926502e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00012090528438055163,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 6.0927032141154783e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 6.092703214069878e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 6.976974204474159e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0033749860111614,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0033749860111611236,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0035519632809695102,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00021800463470127065,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0002180046347016273,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00031387390386318807,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 2.1315245978601374e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 2.1315245978643987e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.0841644240989826e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.035290491046679e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.0352904904154593e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 5.20772515652854e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0002856742946323631,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0001325496955401836,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00010950447923505915,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0006225676216675604,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00013702667660861253,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013949633700218044,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.001215368630163584,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00014997977413065602,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.000156541885124013,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0009430302096485156,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.0002318312054238826,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00015585817302106634,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 2.822522140579448e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 9.781756536104906e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.4485929421055349e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00010662942058917682,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.5375249608179687e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.104139194451153e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 6.538884358624036e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.89536028128797e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.587236437476445e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.00010358303593603852,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.0194547254850726e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 6,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.5671490763879018e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.035224149984328164,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.035224149984328365,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.037476645244394695,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0020881352356052277,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00208813523560525,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0035681220617549887,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.00014367171498586763,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00014367171498629142,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013638401568346443,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.050956796360324e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.0509567963436355e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.0098376453000325e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.003625803486232624,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.003625803486232518,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.004190640748354914,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0002207721034611871,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00022077210346062577,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00023424978798604107,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.8799599956126128e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.8799599955682974e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.5244250802433502e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 4.099008953214559e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 4.099008953790269e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 4.7180254648315115e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.00034179000689112923,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0001444742462304081,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0001450931797430529,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.000899033443525509,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00017389198297931328,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00017530626148870901,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0007484407028321191,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.0005242056004224038,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0004657811109271569,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0006840449960347592,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00026338433224159787,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0002898375426828854,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 3.0363522693867156e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.633977966090962e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.4816800997059879e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00010952031275243873,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.59155738432807e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 9.83459709948289e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.98662871820324e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 5.197591883549299e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 6.161774972594893e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 9.178535814725883e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.9554800360667432e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 7,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.2938642257275323e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.037312230862083635,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.037312230862083615,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.04029001157124888,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0016514337529630254,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0016514337529629968,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.002593821659875986,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 7.864394053088363e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 7.864394053062888e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00012192190531265011,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 3.165594184103709e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 3.165594184035425e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.355811864062409e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.003150367275404921,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0031503672754042422,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.003941631211048974,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00018683162318621432,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00018683162318622361,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.000286890780382213,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.3655064372593099e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.3655064372674174e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.6024368057149358e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.581992619840591e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.581992619842438e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 3.2302674903463787e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.00033664709857094836,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.00017120025284513365,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013654932932208766,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0011043022830355073,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0001543394402330488,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00013854999877138574,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0006509989783504622,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00024092564990669133,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0002322953513614196,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0012174009035819278,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00028363133450114126,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.000265383909044178,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 4.965680203458684e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.8794493006459584e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.103420568867522e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00011778529963539153,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 1.9805772812951224e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.717592614968762e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 7.252861998644453e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 3.160009000353705e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.714815766121591e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 9.088539481910418e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 1.669424093387081e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 8,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.9605400987256904e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.03327845378731716,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.03327845378731658,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.04383014941443681,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0018874523888788904,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0018874523888794852,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0028456440080765026,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.00010716396744763125,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00010716396744707116,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00017611000357443626,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.6314868514520457e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.6314868514690582e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 1,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.7908226968324612e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.003864718169791409,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.003864718169791422,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0035576081753817893,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.00014207550876531059,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.00014207550876576476,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.0002719101409487635,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 1.2018093145327679e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 1.2018093145656269e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.6889340893678107e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 2.631445835464892e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 2.6314458346080713e-06,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "absolute",
+    "setting": 2,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8195111910258423e-06,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 0.0006299739805266693,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 0.0001171442856029501,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00014688666788311068,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 0.0009889628191029013,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 0.0002583141213877862,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00027519704172653865,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 0.0005123417041645717,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 0.00032699532376783455,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00031978443019972435,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 0.0010244433824487971,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 0.00024130800415332883,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 3,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 0.00023715334966777443,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "OLS",
+    "relerr": 7.224374941682103e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS",
+    "relerr": 1.581817753137796e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.8907064759167545e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "OLS",
+    "relerr": 7.675877432990319e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS",
+    "relerr": 2.3000402039422902e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 16.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.6511568362288533e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "OLS",
+    "relerr": 9.249084484635751e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS",
+    "relerr": 2.7436969207512247e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 256.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 2.5376447412372158e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "OLS",
+    "relerr": 8.820579856163644e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS",
+    "relerr": 1.7852871304453518e-05,
+    "oracle_calls": 164,
+    "probe_calls": 0.0
+  },
+  {
+    "seed": 9,
+    "family": "relative",
+    "setting": 4,
+    "amplification": 1024.0,
+    "attacker": "GLS + magnitude",
+    "relerr": 1.3721030600837707e-05,
+    "oracle_calls": 513,
+    "probe_calls": 349.0
+  }
+]

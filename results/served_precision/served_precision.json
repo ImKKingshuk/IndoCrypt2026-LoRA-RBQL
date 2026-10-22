@@ -1,0 +1,704 @@
+{
+  "rows": [
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.4219863414764404",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.9618088006973267",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.10913972556591034",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.7651718854904175",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.4219863414764404",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.577906370162964",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.2671244144439697",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.473215341567993",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.832340955734253",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.9618088006973267",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.9966788291931152",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.5627055168151855",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.8956828117370605",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.930154323577881",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.10913972556591034",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-4.0841898918151855",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-4.1769795417785645",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-4.220462322235107",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-4.4595112800598145",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-0.7651718854904175",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.0298986434936523",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-2.9225258827209473",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-3.5584516525268555",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "The capital of France is",
+      "literal": "-4.1906938552856445",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-0.9179593324661255",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-1.619493842124939",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-0.003215620992705226",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.033369541168213",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-0.9179593324661255",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.0676231384277344",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.54583740234375",
+      "significant_digits": 15,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.705477714538574",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.716888427734375",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-1.619493842124939",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.0340733528137207",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.2097535133361816",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-2.292747974395752",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.5158591270446777",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-0.003215620992705226",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-6.62156867980957",
+      "significant_digits": 15,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-7.318267822265625",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-7.701948165893555",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-8.797079086303711",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.033369541168213",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.063889980316162",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.084404468536377",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.094198703765869",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "2 + 2 =",
+      "literal": "-3.111762523651123",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-0.8088297247886658",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.8404470682144165",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.2616368532180786",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.8032280206680298",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-0.8088297247886658",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.9907989501953125",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.4901862144470215",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.6273255348205566",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.7812161445617676",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.8404470682144165",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-2.2390975952148438",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-2.5812630653381348",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.418837547302246",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.475902557373047",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.2616368532180786",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-2.437689781188965",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.0123252868652344",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.4381637573242188",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.9377965927124023",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-1.8032280206680298",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-2.816382884979248",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.6157312393188477",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.82859468460083",
+      "significant_digits": 15,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "Once upon a time",
+      "literal": "-3.8528456687927246",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-2.1131749153137207",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.1700509786605835",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.8480644226074219",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.1833196878433228",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-2.1131749153137207",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-2.1529412269592285",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.172484397888184",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.267923831939697",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.3282151222229",
+      "significant_digits": 14,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.1700509786605835",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.6970572471618652",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.9231724739074707",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.246168613433838",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.3085713386535645",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.8480644226074219",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.6322498321533203",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.75006103515625",
+      "significant_digits": 15,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.9623889923095703",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-4.140395164489746",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-1.1833196878433228",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.6383280754089355",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.7442893981933594",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.886565685272217",
+      "significant_digits": 16,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    },
+    {
+      "prompt": "def add(a, b):",
+      "literal": "-3.9309115409851074",
+      "significant_digits": 17,
+      "round_trips_float32": true,
+      "narrowest_width": "float32"
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "n_values": 96,
+    "min_significant_digits": 14,
+    "max_significant_digits": 17,
+    "median_significant_digits": 17.0,
+    "implied_p_from_printed_digits": 14,
+    "fraction_round_tripping_float32": 1.0,
+    "applied_no_output_rounding": true,
+    "width_histogram": {
+      "float32": 96
+    },
+    "implied_arithmetic_width": "float32",
+    "effective_decimal_digits": 7,
+    "implied_p_for_theorem7": 7
+  },
+  "config": {
+    "base_url": "http://127.0.0.1:8000",
+    "model": "facebook/opt-125m",
+    "top_logprobs": 5,
+    "prompts": [
+      "The capital of France is",
+      "2 + 2 =",
+      "Once upon a time",
+      "def add(a, b):"
+    ],
+    "server_note_from_operator": "vLLM 0.11.0 OpenAI api_server, CPU backend, --dtype float32 --enforce-eager, macOS arm64"
+  }
+}

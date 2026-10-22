@@ -1,0 +1,47 @@
+[
+  {
+    "input_features": 8,
+    "hidden_features": 12,
+    "classes": 5,
+    "rank": 2,
+    "seed": 0,
+    "query_count": 13,
+    "feature_rank": 13,
+    "head_delta_relerr": 2.836513472263971e-14,
+    "eval_agreement": 1.0,
+    "topk_query_count": 2500,
+    "topk_solved_classes": 5,
+    "topk_head_delta_relerr": 2.4106501827020682e-14,
+    "topk_eval_agreement": 1.0
+  },
+  {
+    "input_features": 8,
+    "hidden_features": 12,
+    "classes": 5,
+    "rank": 2,
+    "seed": 1,
+    "query_count": 13,
+    "feature_rank": 13,
+    "head_delta_relerr": 2.102864907303433e-13,
+    "eval_agreement": 1.0,
+    "topk_query_count": 2500,
+    "topk_solved_classes": 5,
+    "topk_head_delta_relerr": 6.298345801471616e-15,
+    "topk_eval_agreement": 1.0
+  },
+  {
+    "input_features": 8,
+    "hidden_features": 12,
+    "classes": 5,
+    "rank": 2,
+    "seed": 2,
+    "query_count": 13,
+    "feature_rank": 13,
+    "head_delta_relerr": 5.795601045819725e-14,
+    "eval_agreement": 1.0,
+    "topk_query_count": 2500,
+    "topk_solved_classes": 5,
+    "topk_head_delta_relerr": 1.094214298897525e-14,
+    "topk_eval_agreement": 1.0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "input_features": 2,
+    "classes": 3,
+    "topk": 2,
+    "seed": 0,
+    "query_count": 2424,
+    "solved_undirected_pairs": 3,
+    "total_undirected_pairs": 3,
+    "validation_agreement": 1.0,
+    "eval_agreement": 1.0
+  },
+  {
+    "input_features": 2,
+    "classes": 3,
+    "topk": 2,
+    "seed": 1,
+    "query_count": 2574,
+    "solved_undirected_pairs": 3,
+    "total_undirected_pairs": 3,
+    "validation_agreement": 1.0,
+    "eval_agreement": 1.0
+  },
+  {
+    "input_features": 2,
+    "classes": 3,
+    "topk": 2,
+    "seed": 2,
+    "query_count": 2450,
+    "solved_undirected_pairs": 3,
+    "total_undirected_pairs": 3,
+    "validation_agreement": 1.0,
+    "eval_agreement": 1.0
+  }
+]

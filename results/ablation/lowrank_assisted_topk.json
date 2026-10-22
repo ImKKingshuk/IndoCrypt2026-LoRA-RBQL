@@ -1,0 +1,50 @@
+[
+  {
+    "input_features": 6,
+    "hidden_features": 10,
+    "classes": 6,
+    "rank": 2,
+    "seed": 0,
+    "observation_count": 34,
+    "query_count": 6000,
+    "row_space_rank": 2,
+    "full_row_solved_classes": 2,
+    "lowrank_solved_classes": 4,
+    "solved_classes": 6,
+    "generic_row_solved_classes": 2,
+    "head_delta_relerr": 1.6403938666993612e-13,
+    "eval_agreement": 1.0
+  },
+  {
+    "input_features": 6,
+    "hidden_features": 10,
+    "classes": 6,
+    "rank": 2,
+    "seed": 1,
+    "observation_count": 34,
+    "query_count": 6000,
+    "row_space_rank": 2,
+    "full_row_solved_classes": 2,
+    "lowrank_solved_classes": 4,
+    "solved_classes": 6,
+    "generic_row_solved_classes": 2,
+    "head_delta_relerr": 5.639761918261793e-12,
+    "eval_agreement": 1.0
+  },
+  {
+    "input_features": 6,
+    "hidden_features": 10,
+    "classes": 6,
+    "rank": 2,
+    "seed": 2,
+    "observation_count": 34,
+    "query_count": 6000,
+    "row_space_rank": 2,
+    "full_row_solved_classes": 2,
+    "lowrank_solved_classes": 4,
+    "solved_classes": 6,
+    "generic_row_solved_classes": 2,
+    "head_delta_relerr": 3.980971986930821e-10,
+    "eval_agreement": 1.0
+  }
+]

@@ -1,0 +1,70 @@
+[project]
+name = "lowrank-cryptanalytic-extraction"
+version = "0.1.0"
+description = "Prototype artifact for cryptanalytic extraction of low-rank neural adaptations."
+readme = "README.md"
+requires-python = ">=3.11"
+# Upper bounds are at the next major version of each dependency. They are not
+# claims that every version in range reproduces the tracked numbers: uv.lock
+# pins the exact set the results were produced with, and `uv sync` uses it. The
+# caps exist so that a resolve performed without the lock cannot silently cross
+# a major-version boundary -- transformers alone moved 4.x -> 5.x during this
+# work.
+dependencies = [
+    "numpy>=1.26,<3",
+    "scikit-learn>=1.4,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0,<10",
+]
+vision = [
+    "torch>=2.3,<3",
+    "torchvision>=0.18,<1",
+]
+lora = [
+    "datasets>=3.0,<5",
+    "torch>=2.3,<3",
+    "transformers>=4.45,<6",
+    "peft>=0.13,<1",
+    "sentencepiece>=0.2,<1",
+]
+
+[project.scripts]
+run-synthetic = "lowrank_extraction.experiments.run_synthetic:main"
+run-ablation = "lowrank_extraction.experiments.run_ablation:main"
+run-realdata = "lowrank_extraction.experiments.run_realdata:main"
+run-defense-sweep = "lowrank_extraction.experiments.run_defense_sweep:main"
+run-adaptive-defense = "lowrank_extraction.experiments.run_adaptive_defense:main"
+run-quantization-frontier = "lowrank_extraction.experiments.run_quantization_frontier:main"
+run-defense-taxonomy = "lowrank_extraction.experiments.run_defense_taxonomy:main"
+run-relative-attacker = "lowrank_extraction.experiments.run_relative_attacker:main"
+run-security-floor = "lowrank_extraction.experiments.run_security_floor:main"
+run-module-amplification = "lowrank_extraction.experiments.run_module_amplification:main"
+run-vision-endpoint = "lowrank_extraction.experiments.run_vision_endpoint:main"
+run-trained-adapter-defense = "lowrank_extraction.experiments.run_trained_adapter_defense:main"
+run-lower-bound = "lowrank_extraction.experiments.run_lower_bound:main"
+run-lora-checkpoint = "lowrank_extraction.experiments.run_lora_checkpoint:main"
+run-endpoint-transformer = "lowrank_extraction.experiments.run_endpoint_transformer:main"
+run-lm-endpoint-inversion = "lowrank_extraction.experiments.run_lm_endpoint_inversion:main"
+run-mlm-output-head = "lowrank_extraction.experiments.run_mlm_output_head:main"
+run-adaptive-boundary = "lowrank_extraction.experiments.run_adaptive_boundary:main"
+run-noise-aggregators = "lowrank_extraction.experiments.run_noise_aggregators:main"
+run-precision-floor = "lowrank_extraction.experiments.run_precision_floor:main"
+run-null-curvature = "lowrank_extraction.experiments.run_null_curvature:main"
+run-served-precision = "lowrank_extraction.experiments.run_served_precision:main"
+run-floor-margin = "lowrank_extraction.experiments.run_floor_margin:main"
+run-request-model = "lowrank_extraction.experiments.run_request_model:main"
+run-request-utility = "lowrank_extraction.experiments.run_request_utility:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/lowrank_extraction"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

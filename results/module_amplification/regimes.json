@@ -1,0 +1,41 @@
+[
+  {
+    "feature_map": "identity",
+    "interface": "O_module / embedding input",
+    "ratios": {
+      "1.0": 1.0,
+      "4.0": 1.0,
+      "16.0": 1.0,
+      "64.0": 1.0,
+      "256.0": 1.0,
+      "1024.0": 1.0
+    },
+    "regime": "exactly homogeneous"
+  },
+  {
+    "feature_map": "standardize/PCA/ReLU (digits)",
+    "interface": "O_raw",
+    "ratios": {
+      "1.0": 1.0,
+      "4.0": 1.4839046148079529,
+      "16.0": 1.6696795539817475,
+      "64.0": 1.7183388353227336,
+      "256.0": 1.7306229326081826,
+      "1024.0": 1.7337011454769378
+    },
+    "regime": "asymptotically homogeneous"
+  },
+  {
+    "feature_map": "bert-base-uncased CLS (LayerNorm)",
+    "interface": "O_end via inputs_embeds",
+    "ratios": {
+      "1.0": 1.0,
+      "4.0": 0.24705238426099604,
+      "16.0": 0.061647684031808564,
+      "64.0": 0.015262581806029452,
+      "256.0": 0.003802385497520866,
+      "1024.0": 0.0009497516008009726
+    },
+    "regime": "scale-invariant"
+  }
+]

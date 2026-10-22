@@ -1,0 +1,242 @@
+{
+  "description": "Theorem 7(iii): the exact minimax relative error (b-a)/(a+b) over the achievable-threshold set T, enumerated over one decade, against the closed form 1/(2*(10^d-1)*(2*10^p-1) - 1), for every (p, d) with p + d <= 6, and the explicit attaining pair on the diagonal p = d. `half_gap` is the older conservative convention (b-a)/(2b), never above the minimax value.",
+  "cells": [
+    {
+      "p": 1,
+      "d": 1,
+      "enumerated": 0.002932551319648094,
+      "closed_form": 0.002932551319648094,
+      "half_gap": 0.0029239766081871343,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 68
+    },
+    {
+      "p": 1,
+      "d": 2,
+      "enumerated": 0.0002957704821058858,
+      "closed_form": 0.00026588673225206064,
+      "half_gap": 0.00029568302779420464,
+      "ratio": 1.1123927832002365,
+      "exact": false,
+      "decade_points": 654
+    },
+    {
+      "p": 2,
+      "d": 1,
+      "enumerated": 0.00027925160569673273,
+      "closed_form": 0.00027925160569673273,
+      "half_gap": 0.00027917364600781687,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 667
+    },
+    {
+      "p": 1,
+      "d": 3,
+      "enumerated": 2.6342825531466506e-05,
+      "closed_form": 2.6342825531466506e-05,
+      "half_gap": 2.63421316052895e-05,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 6555
+    },
+    {
+      "p": 2,
+      "d": 2,
+      "enumerated": 2.538006649577422e-05,
+      "closed_form": 2.538006649577422e-05,
+      "half_gap": 2.5379422364346987e-05,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 6476
+    },
+    {
+      "p": 3,
+      "d": 1,
+      "enumerated": 2.779244601317362e-05,
+      "closed_form": 2.779244601317362e-05,
+      "half_gap": 2.779167361458507e-05,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 6659
+    },
+    {
+      "p": 1,
+      "d": 4,
+      "enumerated": 2.6318490581928146e-06,
+      "closed_form": 2.6318490581928146e-06,
+      "half_gap": 2.631842131581579e-06,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 65531
+    },
+    {
+      "p": 2,
+      "d": 3,
+      "enumerated": 2.5150842175950263e-06,
+      "closed_form": 2.5150842175950263e-06,
+      "half_gap": 2.515077891962314e-06,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 64801
+    },
+    {
+      "p": 3,
+      "d": 2,
+      "enumerated": 2.5265221664422274e-06,
+      "closed_form": 2.5265221664422274e-06,
+      "half_gap": 2.5265157831440973e-06,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 64538
+    },
+    {
+      "p": 4,
+      "d": 1,
+      "enumerated": 2.7779243904539405e-06,
+      "closed_form": 2.7779243904539405e-06,
+      "half_gap": 2.777916673611458e-06,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 66582
+    },
+    {
+      "p": 1,
+      "d": 5,
+      "enumerated": 2.6321323878362843e-07,
+      "closed_form": 2.6316059559558637e-07,
+      "half_gap": 2.632131695024376e-07,
+      "ratio": 1.0002000420614756,
+      "exact": false,
+      "decade_points": 655341
+    },
+    {
+      "p": 2,
+      "d": 4,
+      "enumerated": 2.515330309403235e-07,
+      "closed_form": 2.512814726903526e-07,
+      "half_gap": 2.515329676714738e-07,
+      "ratio": 1.0010011014631426,
+      "exact": false,
+      "decade_points": 647908
+    },
+    {
+      "p": 3,
+      "d": 3,
+      "enumerated": 2.503755006571105e-07,
+      "closed_form": 2.503755006571105e-07,
+      "half_gap": 2.503754379692349e-07,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 645995
+    },
+    {
+      "p": 4,
+      "d": 2,
+      "enumerated": 2.525379431946201e-07,
+      "closed_form": 2.525379431946201e-07,
+      "half_gap": 2.525378794192235e-07,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 645268
+    },
+    {
+      "p": 5,
+      "d": 1,
+      "enumerated": 2.7777924383489803e-07,
+      "closed_form": 2.7777924383489803e-07,
+      "half_gap": 2.7777916667361114e-07,
+      "ratio": 1.0,
+      "exact": true,
+      "decade_points": 665811
+    }
+  ],
+  "summary": {
+    "n_cells": 15,
+    "n_exact": 12,
+    "exceptions": [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ]
+    ],
+    "closed_form_ever_exceeds_enumeration": false,
+    "half_gap_ever_exceeds_minimax": false,
+    "max_half_gap_shortfall_pct": 0.29239766081872176
+  },
+  "diagonal_witness": [
+    {
+      "p": 1,
+      "a": "85/9",
+      "b": "19/2",
+      "gap": "1/18",
+      "relative_minimax": "1/341",
+      "matches_closed_form": true
+    },
+    {
+      "p": 2,
+      "a": "985/99",
+      "b": "199/20",
+      "gap": "1/1980",
+      "relative_minimax": "1/39401",
+      "matches_closed_form": true
+    },
+    {
+      "p": 3,
+      "a": "9985/999",
+      "b": "1999/200",
+      "gap": "1/199800",
+      "relative_minimax": "1/3994001",
+      "matches_closed_form": true
+    },
+    {
+      "p": 4,
+      "a": "99985/9999",
+      "b": "19999/2000",
+      "gap": "1/19998000",
+      "relative_minimax": "1/399940001",
+      "matches_closed_form": true
+    },
+    {
+      "p": 5,
+      "a": "999985/99999",
+      "b": "199999/20000",
+      "gap": "1/1999980000",
+      "relative_minimax": "1/39999400001",
+      "matches_closed_form": true
+    },
+    {
+      "p": 6,
+      "a": "9999985/999999",
+      "b": "1999999/200000",
+      "gap": "1/199999800000",
+      "relative_minimax": "1/3999994000001",
+      "matches_closed_form": true
+    },
+    {
+      "p": 7,
+      "a": "99999985/9999999",
+      "b": "19999999/2000000",
+      "gap": "1/19999998000000",
+      "relative_minimax": "1/399999940000001",
+      "matches_closed_form": true
+    },
+    {
+      "p": 8,
+      "a": "999999985/99999999",
+      "b": "199999999/20000000",
+      "gap": "1/1999999980000000",
+      "relative_minimax": "1/39999999400000001",
+      "matches_closed_form": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Recovery Boundaries and Quantization Limits for Low-Rank Neural Adaptations under Restricted Oracles"
+authors:
+  - family-names: Mondal
+    given-names: Kingshuk
+    orcid: "https://orcid.org/0009-0003-8222-6088"
+repository-code: "https://github.com/ImKKingshuk/IndoCrypt2026-LoRA-RBQL"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Recovery Boundaries and Quantization Limits for Low-Rank Neural Adaptations under Restricted Oracles"
+  authors:
+    - family-names: Mondal
+      given-names: Kingshuk
+      orcid: "https://orcid.org/0009-0003-8222-6088"
+  conference:
+    name: "Indocrypt 2026"
+  collection-title: "Lecture Notes in Computer Science"
+  publisher:
+    name: Springer
+  year: 2026

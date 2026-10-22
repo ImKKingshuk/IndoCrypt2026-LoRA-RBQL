@@ -1,0 +1,108 @@
+{
+  "config": {
+    "features": 32,
+    "classes": 8,
+    "rank": 3,
+    "seed": 7
+  },
+  "raw_recovery": {
+    "query_count": 33,
+    "weight_relative_error": 4.565280212310896e-17,
+    "delta_relative_error": 6.18570930202932e-16,
+    "rank_projected_delta_relative_error": 2.3982128258841607e-15,
+    "max_weight_error": 5.551115123125783e-17,
+    "top_rank_energy": 1.0,
+    "eval_label_agreement": 1.0
+  },
+  "hard_label_surrogate_baseline": {
+    "query_count": 2000,
+    "train_agreement": 0.965,
+    "eval_label_agreement": 0.92236328125,
+    "delta_relative_error_against_truth": 30.979381470232973
+  },
+  "topk_probe": {
+    "query_count": 128,
+    "k": 3,
+    "first_indices": [
+      [
+        4,
+        7,
+        3
+      ],
+      [
+        4,
+        7,
+        0
+      ],
+      [
+        3,
+        4,
+        1
+      ],
+      [
+        6,
+        7,
+        5
+      ],
+      [
+        1,
+        6,
+        5
+      ]
+    ],
+    "first_scores": [
+      [
+        1.1545411191231554,
+        0.380111501955105,
+        0.14389041887824183
+      ],
+      [
+        1.6332120325982074,
+        1.5852503018677027,
+        1.3201165755644684
+      ],
+      [
+        1.3363915253373677,
+        1.2386899191318899,
+        0.6072298572938819
+      ],
+      [
+        1.7727748239471612,
+        0.9218478917990298,
+        0.558191649807891
+      ],
+      [
+        1.2404684421404903,
+        0.6860095546593663,
+        0.11853923885192356
+      ]
+    ]
+  },
+  "topk_scored_recovery": {
+    "query_count": 2081,
+    "k": 3,
+    "solved_classes": 8,
+    "observations_per_class": [
+      824,
+      783,
+      703,
+      815,
+      828,
+      708,
+      819,
+      763
+    ],
+    "weight_relative_error": 1.0060608948502863e-15,
+    "delta_relative_error": 9.331654491406448e-15,
+    "rank_projected_delta_relative_error": 6.37922893871122e-15,
+    "eval_label_agreement": 1.0
+  },
+  "binary_hard_label_boundary_recovery": {
+    "query_count": 5850,
+    "solved": true,
+    "boundary_points": 32,
+    "validation_agreement": 1.0,
+    "eval_label_agreement": 1.0,
+    "note": "Hard labels recover the binary decision boundary up to scale, not logits or adapter magnitude."
+  }
+}

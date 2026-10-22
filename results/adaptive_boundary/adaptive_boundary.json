@@ -1,0 +1,2185 @@
+{
+  "config": {
+    "classes": 10,
+    "feature_dim": 8,
+    "rank": 2,
+    "sig_digits": 4,
+    "decimals": 3,
+    "bits": 60,
+    "design_size": 200,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "rows": [
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.0001191402065761263
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 3.0652125029792276e-05
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.7208043685048906e-06
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 4.193432490641159e-07
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.4318392243628693e-07
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.436446809193714e-08
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00015457438770877086
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8060421487380414e-06
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.513863138519111e-08
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.6149841298229648e-12
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.066443110105955e-16
+    },
+    {
+      "seed": 0,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.616499630342634e-16
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 9.505288342604962e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.757712634640233e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 8.455881795457405e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 1.4082229330443627e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 9.95699734231699e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.073888487442778e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00015457438770877086
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8060421487380414e-06
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.513863138519111e-08
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.6149841298229648e-12
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.066443110105955e-16
+    },
+    {
+      "seed": 0,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.616499630342634e-16
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.00017100041102105796
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 3.1236262039536415e-05
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 2.7048397195185766e-06
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 4.385239879528022e-07
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.1517892001350825e-07
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.077754210030525e-08
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00019956063661738993
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.1893234605738054e-06
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.0632857675457332e-08
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.169903198123026e-12
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.1992671202916896e-16
+    },
+    {
+      "seed": 1,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.932778211683725e-16
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.209116882111818e-05
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.7195118486955176e-06
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.4081056615601602e-05
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.0155380837990708e-06
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 9.624478226438916e-06
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 3.231376333658531e-06
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00019956063661738993
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.1893234605738054e-06
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.0632857675457332e-08
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.169903198123026e-12
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.1992671202916896e-16
+    },
+    {
+      "seed": 1,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.932778211683725e-16
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.00014124186434732569
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.8199352061946473e-05
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.931910117138248e-06
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 3.5971602592273194e-07
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.465758794456363e-07
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.374698575039215e-08
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.0001635533240027936
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.6072367134785394e-06
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.3934595192449979e-08
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8514622391159494e-12
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.211506536227427e-16
+    },
+    {
+      "seed": 2,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.2000060408068e-16
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.2972796674681788e-05
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.4498592323362755e-06
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.1740650361137772e-05
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.3393727745921994e-06
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.6253702210796284e-05
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.790478243678944e-06
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.0001635533240027936
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.6072367134785394e-06
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.3934595192449979e-08
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8514622391159494e-12
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.211506536227427e-16
+    },
+    {
+      "seed": 2,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.2000060408068e-16
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 8.766055416318578e-05
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.7954597708548015e-05
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.418150506633403e-06
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.894659614456389e-07
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 9.31520250066118e-08
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.6676439704152423e-08
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00016267655815553172
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.711018665756948e-06
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.7019631551371803e-08
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2793508666396648e-12
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.378748135996869e-16
+    },
+    {
+      "seed": 3,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.764078312551251e-16
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.5840182024020247e-05
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.457894383570897e-06
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 7.575188743266756e-06
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.096294445637493e-06
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.76533001452319e-05
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 3.840896508135106e-06
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00016267655815553172
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.711018665756948e-06
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.7019631551371803e-08
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2793508666396648e-12
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.378748135996869e-16
+    },
+    {
+      "seed": 3,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.764078312551251e-16
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.0001635695576835702
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.9202304474745085e-05
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 2.2960281916350435e-06
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 4.434030078550761e-07
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.4781025408839283e-07
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 3.459238661868953e-08
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.0001710613744597854
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.2224831468024574e-06
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8206399945394012e-08
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.968990332939942e-12
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.685570218137126e-16
+    },
+    {
+      "seed": 4,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.624676895290497e-16
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.5525258522357833e-05
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.9201448644779454e-06
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.4080068183409908e-05
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.058205686226054e-06
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.4641770655287653e-05
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 6.7861854923126625e-06
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.0001710613744597854
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.2224831468024574e-06
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8206399945394012e-08
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.968990332939942e-12
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.685570218137126e-16
+    },
+    {
+      "seed": 4,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.624676895290497e-16
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.00012819646920567037
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.5998962572881348e-05
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 2.7213593868630518e-06
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 4.100030890572592e-07
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.40322590876759e-07
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.346452145724757e-08
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00013213636273610776
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.7801780507215439e-06
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.3601592408219324e-08
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.963147195277069e-12
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.328749198161314e-16
+    },
+    {
+      "seed": 5,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.7334193512617945e-16
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.3520463771293674e-05
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.992392444355617e-06
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.1374565328310525e-05
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.1849751316244686e-06
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 9.377204982573872e-06
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.7681010780818458e-06
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00013213636273610776
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.7801780507215439e-06
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.3601592408219324e-08
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.963147195277069e-12
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.328749198161314e-16
+    },
+    {
+      "seed": 5,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.7334193512617945e-16
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 8.29092844337604e-05
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.3998346331766646e-05
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.3515245378435375e-06
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.854111398220019e-07
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 5.501812334803888e-08
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.6302151732390364e-08
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00011180017037325601
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.275316946667509e-06
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.0169309749616592e-08
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.036233547754946e-12
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 6.385850950370847e-16
+    },
+    {
+      "seed": 6,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.011567920790219e-16
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.579899373911073e-05
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.427247098831264e-06
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 6.508739753964926e-06
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 1.1843077787855643e-06
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.5030826172065356e-05
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.9656911399492137e-06
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00011180017037325601
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.275316946667509e-06
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.0169309749616592e-08
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.036233547754946e-12
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 6.385850950370847e-16
+    },
+    {
+      "seed": 6,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.011567920790219e-16
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.00016766833764355994
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.9622770173019444e-05
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 2.8055834942044775e-06
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 4.006644085301621e-07
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.3043601303692398e-07
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.5366967520316525e-08
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00016853572448398082
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2181860019028236e-06
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8919522158989398e-08
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.836908018763778e-12
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.045675329014131e-16
+    },
+    {
+      "seed": 7,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.816489690843037e-16
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 2.7536543841583792e-05
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.2481121169428663e-06
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.4809562172158092e-05
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.8241919801327666e-06
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 3.2196840114743846e-05
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 5.7115268257128185e-06
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00016853572448398082
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2181860019028236e-06
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8919522158989398e-08
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.836908018763778e-12
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 5.045675329014131e-16
+    },
+    {
+      "seed": 7,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.816489690843037e-16
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 0.0001159134800416793
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.149450866862383e-05
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.975948937603476e-06
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 3.645362068717569e-07
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.1846091108194313e-07
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.5212390445611473e-08
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00020946920487770646
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8619536980529102e-06
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.0944750638005167e-08
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.1263795905991455e-12
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.905911429030407e-16
+    },
+    {
+      "seed": 8,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.716506371737331e-16
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.8010052024342054e-05
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.1784859231035848e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 9.702684892750218e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.6918223642910037e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 7.71735857399378e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 2.1659724957945893e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00020946920487770646
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.8619536980529102e-06
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.0944750638005167e-08
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 2.1263795905991455e-12
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 7.905911429030407e-16
+    },
+    {
+      "seed": 8,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.716506371737331e-16
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 7.311218296214046e-05
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 1.3513830722533603e-05
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.1821242934459101e-06
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 2.0094035470383338e-07
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 5.774349554972272e-08
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.3618368697365273e-08
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00012368752840807555
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.29663392422307e-06
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.1773889825133446e-08
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2786923472232785e-12
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.220473840367249e-16
+    },
+    {
+      "seed": 9,
+      "defense": "absolute (decimals=3)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.748237604174921e-16
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 200,
+      "delta_relerr": 1.1646984056373765e-05
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1",
+      "queries": 4808,
+      "delta_relerr": 2.0806673080068773e-06
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 200,
+      "delta_relerr": 1.415119464092181e-05
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "64",
+      "queries": 4808,
+      "delta_relerr": 1.0400061637024014e-06
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (small budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 200,
+      "delta_relerr": 1.6995934800677982e-05
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "amplify+wls (matched budget)",
+      "input_digits": "none",
+      "amplification": "1024",
+      "queries": 4808,
+      "delta_relerr": 1.795921169805364e-06
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "4",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 0.00012368752840807555
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "6",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.29663392422307e-06
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "8",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.1773889825133446e-08
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "12",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 1.2786923472232785e-12
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "16",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 4.220473840367249e-16
+    },
+    {
+      "seed": 9,
+      "defense": "relative (sig=4)",
+      "attacker": "boundary",
+      "input_digits": "none",
+      "amplification": "-",
+      "queries": 4808,
+      "delta_relerr": 3.748237604174921e-16
+    }
+  ]
+}
