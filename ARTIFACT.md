@@ -30,6 +30,11 @@ This reports **93 passed** in under a minute and needs no downloads.
 - The other test files cover the attacks, oracles, defenses and experiment
   summaries.
 
+Table 31 of the paper times a larger internal suite of 252 tests. The other 159
+need the paper's LaTeX source, which is not part of this repository: they read
+the figures printed in the paper and check them against the stored results. They
+are therefore not included here.
+
 The stored outputs of every reported experiment are under `results/`, so the
 figures in the paper can be compared with them without rerunning anything.
 
